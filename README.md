@@ -98,8 +98,6 @@ My goal is to use technological advancements to solve real-world problems. I gra
 ![Structured Data Contracts](https://img.shields.io/badge/Structured%20Data%20Contracts-000000?style=for-the-badge&logo=json&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-
-
 ### ⚙️ Featured Projects
 
 *   **AI EchoMail:** Multi-agent email generation pipeline using GPT-4, FastAPI, Hugging Face, and PostgreSQL.
@@ -113,6 +111,5 @@ My goal is to use technological advancements to solve real-world problems. I gra
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rudraagarwal01&show_icons=true&theme=transparent&hide_border=true&title_color=255E63&icon_color=255E63" alt="Rudra's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudraagarwal01&theme=transparent&hide_border=true&ring=255E63&fire=255E63&currStreakLabel=255E63" alt="Rudra's GitHub Streak" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudraagarwal01&theme=transparent&hide_border=true&ring=255E63&fire=255E63&currStreakLabel=255E63" alt="Rudra's GitHub Streak" />
 </p>
