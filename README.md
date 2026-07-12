@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Rudra 👋</h1>
-<h3 align="center">Computer Science (ML) @ UMD | Software Engineer | Builder</h3>
+<h3 align="center">Computer Science (ML) @ UMD | Software Engineer </h3>
 
 <p align="center">
   <a href="http://rudra-agarwal.com">
