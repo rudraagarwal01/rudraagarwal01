@@ -38,7 +38,7 @@ My goal is to use technological advancements to solve real-world problems. I gra
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![HTML/CSS](https://img.shields.io/badge/html/css-%231572B6.svg?style=for-the-badge&logo=html5&logoColor=white)
-* Python, Java, C/C++, TypeScript, JavaScript, SQL, Swift, Dart, MATLAB, HTML/CSS
+
 
 **Frameworks:**  
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -47,7 +47,7 @@ My goal is to use technological advancements to solve real-world problems. I gra
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-* React, Node.js, FastAPI, Flask, Pydantic, Zod, REST APIs, PyTorch, OpenCV, SwiftUI, Firebase
+
 
 **Cloud & DevOps:**  
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -55,20 +55,20 @@ My goal is to use technological advancements to solve real-world problems. I gra
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-* AWS (Bedrock, SageMaker, BDA, Textract, Lambda, S3, EC2), Terraform, Docker, Azure, Linux
+
 
 **Libraries & ML:**
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-* Claude Haiku 4.5, LLM Guardrails, Pandas, NumPy, Scikit-learn, RAG, OpenAI & Anthropic APIs
+
 
 **Developer Tools:**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
-* Git, GitHub, Postman, ipywidgets, JupyterLab, Insomnia, Apigee, Xcode, Neo4j, PostgreSQL
+
 
 **Concepts:**
 * Data Structures & Algorithms, Multithreading, Object-Oriented Design, Structured Data Contracts, Agile
