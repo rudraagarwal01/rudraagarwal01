@@ -71,11 +71,12 @@ My goal is to use technological advancements to solve real-world problems. I gra
 
 
 **Concepts:**  
-![Data Structures & Algorithms](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-255E63?style=for-the-badge)
-![Multithreading](https://img.shields.io/badge/Multithreading-255E63?style=for-the-badge)
-![Object-Oriented Design](https://img.shields.io/badge/Object--Oriented%20Design-255E63?style=for-the-badge)
-![Structured Data Contracts](https://img.shields.io/badge/Structured%20Data%20Contracts-255E63?style=for-the-badge)
-![Agile](https://img.shields.io/badge/Agile-255E63?style=for-the-badge)
+![Data Structures & Algorithms](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![Multithreading](https://img.shields.io/badge/Multithreading-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Object-Oriented Design](https://img.shields.io/badge/Object--Oriented%20Design-00599C?style=for-the-badge&logo=codecademy&logoColor=white)
+![Structured Data Contracts](https://img.shields.io/badge/Structured%20Data%20Contracts-000000?style=for-the-badge&logo=json&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
 
 
 ### ⚙️ Featured Projects
