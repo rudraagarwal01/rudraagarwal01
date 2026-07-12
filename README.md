@@ -70,8 +70,13 @@ My goal is to use technological advancements to solve real-world problems. I gra
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 
 
-**Concepts:**
-* Data Structures & Algorithms, Multithreading, Object-Oriented Design, Structured Data Contracts, Agile
+**Concepts:**  
+![Data Structures & Algorithms](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-255E63?style=for-the-badge)
+![Multithreading](https://img.shields.io/badge/Multithreading-255E63?style=for-the-badge)
+![Object-Oriented Design](https://img.shields.io/badge/Object--Oriented%20Design-255E63?style=for-the-badge)
+![Structured Data Contracts](https://img.shields.io/badge/Structured%20Data%20Contracts-255E63?style=for-the-badge)
+![Agile](https://img.shields.io/badge/Agile-255E63?style=for-the-badge)
+
 
 ### ⚙️ Featured Projects
 
