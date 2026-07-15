@@ -107,13 +107,7 @@ Native iOS fitness tracking app built with Swift and Xcode.
 ### 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rudraagarwal01&show_icons=true&theme=transparent&hide_border=true&title_color=255E63&icon_color=255E63&text_color=333333&v=1" height="165" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rudraagarwal01&layout=compact&theme=transparent&hide_border=true&title_color=255E63&text_color=333333&v=1" height="165" alt="Top Languages" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudraagarwal01&theme=transparent&hide_border=true&ring=255E63&fire=255E63&currStreakLabel=255E63" height="165" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rudraagarwal01&theme=algolia&no-frame=true&row=1&column=6&margin-w=8&v=1" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
