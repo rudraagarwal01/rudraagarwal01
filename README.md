@@ -108,11 +108,16 @@ Native iOS fitness tracking app built with Swift and Xcode.
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=rudraagarwal01&show_icons=true&theme=transparent&hide_border=true&title_color=255E63&icon_color=255E63&text_color=333333" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudraagarwal01&layout=compact&theme=transparent&hide_border=true&title_color=255E63&text_color=333333" height="165" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudraagarwal01&theme=transparent&hide_border=true&ring=255E63&fire=255E63&currStreakLabel=255E63" height="165" />
 </p>
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=rudraagarwal01&theme=algolia&no-frame=true&row=1&column=6&margin-w=8" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rudraagarwal01&bg_color=transparent&color=255E63&line=255E63&point=0f2027&area=true&hide_border=true" width="100%" />
 </p>
 
 <!-- requires the one-time Action setup below; renders after the first workflow run -->
