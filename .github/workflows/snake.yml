@@ -18,6 +18,8 @@ jobs:
         id: snake
         with:
           github_user_name: rudraagarwal01
+          # The SNAKE_TOKEN goes right here in the first step!
+          github_token: ${{ secrets.SNAKE_TOKEN }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
@@ -27,4 +29,5 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
+          # This stays as the default GITHUB_TOKEN
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
