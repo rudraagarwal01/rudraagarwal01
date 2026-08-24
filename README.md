@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:255e63&height=260&section=header&text=Rudra%20Agarwal&fontSize=48&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Software%20Engineer%20%7C%20Machine%20Learning%20%40%20UMD&descAlignY=58&descSize=18&descColor=d7eef0" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=255E63&center=true&vCenter=true&width=650&lines=Building+AI+systems+that+ship+to+production;Software+Engineer+%40+Fannie+Mae;ML+%40+University+of+Maryland;Founder+of+A.C.E.+Cricket+%40+UMD" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=255E63&center=true&vCenter=true&width=650&lines=Building+AI+systems+that+ship+to+production;Software+Engineer+%40+Fannie+Mae;Adobe+Campus+Brand+Ambassador;ML+%40+University+of+Maryland;Founder+of+A.C.E.+Cricket+%40+UMD" alt="Typing SVG" />
 
 <a href="http://rudra-agarwal.com"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 <a href="mailto:rudra.agarwal06@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
