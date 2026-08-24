@@ -17,81 +17,81 @@
 
 ### 🔭 Currently
 
-- 💼 Engineering an AI-powered document intake and routing system at **Fannie Mae**, orchestrating Claude 4.5 via AWS Bedrock across an LLM orchestration layer and human triage gate
-- 🌱 Working toward the **AWS AI Practitioner (AIF-C01)** certification
-- 🏏 Founder and lead organizer of **A.C.E. Cricket**, a beginner-friendly recreational cricket program at UMD that has trained 50+ participants
-- 📫 Reach me at rudra.agarwal06@gmail.com
+- 🎨 **Adobe Campus Brand Ambassador** running Firefly workshops for 200+ students at UMD
+- ⚙️ **Automation & Infrastructure Technician** at UMD DIT
+- 🏏 Founder of **A.C.E. Cricket**, UMD's recreational program, 100+ participants over 4 semesters
+- 🌱 Studying for the **AWS AI Practitioner (AIF-C01)** cert
+- 🎯 Open to **Summer 2027 SWE and ML internships**
 
 ---
 
-### 💡 About Me
+### 💡 About
 
-I'm a Computer Science student at the University of Maryland studying Machine Learning, with minors in Business and Information Risk Management, Ethics, and Privacy. I gravitate toward problems where the right answer isn't obvious, where you test, learn, and iterate until something works for real people.
+CS @ University of Maryland, ML concentration, graduating **December 2027**. Minors in Business and in Information Risk Management, Ethics, and Privacy.
 
-Progress usually happens in the unglamorous moments: debugging a driver issue, tracing a network configuration, cleaning up an integration. I'm chasing clarity, reliability, and systems I can explain and maintain.
+I work on LLM orchestration, RAG pipelines, and the backend systems underneath them. Most of the real progress happens in unglamorous places: a race condition under load, a token budget that won't shrink, a parser that fails one time in a thousand.
 
 ---
 
 ### 🚀 Experience
 
-**Software Engineering Intern, Fannie Mae** `May 2026 – Present`
-Engineered an AI intake portal in React and FastAPI that abstracts 5 platforms, cutting manual processing time by 50%. Integrated Claude 4.5 via AWS Bedrock with Pydantic validation, eliminating JSON parsing errors across 8 API routes. Built an interactive AI chatbot in AWS SageMaker using ipywidgets to accelerate inference workflow testing.
+| Role | Org | When |
+|:--|:--|:--|
+| Software Engineering Intern | **Fannie Mae** | `May – Aug 2026` |
+| Campus Brand Ambassador | **Adobe** | `Jul 2026 – Present` |
+| Automation & Infrastructure Technician | **University of Maryland** | `Sep 2025 – Present` |
+| Software Engineering Intern | **Mphasis** | `Jun – Aug 2025` |
+| AI Software Engineering Intern | **Apollonian** | `Feb – Jun 2025` |
 
-**IT Technician, UMD Division of Information Technology** `Sept 2025 – Present`
-Sustained 99% uptime across 100+ endpoints by resolving kernel and network faults. Automated OS imaging pipelines with PowerShell and Bash, cutting device provisioning time by 40%. Enforced security across 200+ workstations through automated driver configuration.
+<details>
+<summary><b>Details</b></summary>
+<br>
 
-**Software Engineering Intern, Mphasis** `June 2025 – Aug 2025`
-Designed Neo4j-backed vector embedding pipelines that vectorized 50,000+ documents with sub-second semantic search latency. Integrated GPT and RAG models into a Flask and React chat interface supporting 500+ Cypher queries.
+**Fannie Mae** · Built an AI chatbot and guided-form portal (React/FastAPI on EC2) routing 5 products, cutting triage time 50%. Architected a RAG knowledge base on S3 with event-driven Lambda re-chunking, cutting per-request tokens 60%. Integrated Claude Haiku 4.5 via the Bedrock Converse API with rules-based failover that eliminated JSON parse faults. Designed SageMaker test harnesses that sped up inference prototyping 35% across 15+ models.
 
-**AI Software Engineer Intern, Apollonian.AI** `Feb 2025 – June 2025`
-Architected a high-concurrency React chatbot processing 1,000+ daily messages through optimized Firebase queries. Built NLP pipelines with OpenAI and Hugging Face APIs powering dynamic virtual psychological chats, plus SadTalker avatars with real-time emotion mapping.
+**Adobe** · Selected to run campus Firefly workshops, teaching generative AI tooling to 200+ UMD students.
 
----
+**University of Maryland** · Automated OS imaging with PowerShell and Bash, cutting provisioning time 40%. Hardened 200+ workstations by automating driver updates, resolving 50+ vulnerabilities monthly.
 
-### 🏏 Leadership
+**Mphasis** · Flask microservice compiling natural language into 500+ Neo4j Cypher queries. Async embedding pipelines processing 50K+ records with sub-second retrieval. Graph indexing and batch ingestion tuning that cut ingestion time 35%.
 
-**Founder, A.C.E. Cricket, UMD**
-Built a beginner-friendly recreational cricket program from scratch and trained 50+ participants. Run practices, teach fundamentals, and manage logistics end to end.
+**Apollonian** · Real-time lip-sync avatar pipeline using HuggingFace models for synchronized video chat. Async NLP pipelines with dynamic caching across 16K-token contexts and 50 concurrent sessions, at 250ms reaction latency.
+
+</details>
 
 ---
 
 ### ⚙️ Featured Projects
 
-**[DocFlow](https://github.com/rudraagarwal01)** · FastAPI, React, AWS Textract, Bedrock, pytest, GitHub Actions
-Automated document classification pipeline achieving 95% accuracy, with a React and Tailwind dashboard visualizing extracted fields, document types, and processing status. Backed by full pytest coverage and a CI/CD pipeline.
-
-**AI EchoMail** · Python, React, FastAPI, Hugging Face, PostgreSQL
-Multi-agent email generation pipeline integrating GPT-4 to cut drafting time by over 60%, with a moderation pipeline that optimizes tone, clarity, and policy alignment.
-
-**AuthGuard Extension**
-Chrome extension that uses Levenshtein distance to detect and flag phishing login pages.
-
-**Fitness Genius**
-Native iOS fitness tracking app built with Swift and Xcode.
+| Project | Stack | What it does |
+|:--|:--|:--|
+| **[Urban Energy Insights](https://github.com/rudraagarwal01)** | Redis Streams, PostgreSQL, SQLAlchemy, Docker | Idempotent anomaly engine flagging spikes in sub-200ms, with nested-transaction ingestion that boosted write speeds 40% |
+| **[MealMatch](https://github.com/rudraagarwal01)** | React, FastAPI, PostgreSQL, JWT, Leaflet | Weighted algorithm scoring 1,000+ listings across 5 urgency signals, race-condition-free under load via row-level locks |
+| **[DocFlow](https://github.com/rudraagarwal01)** | FastAPI, React, Textract, Bedrock, GitHub Actions | Bedrock classifier extracting structured fields from 6 file types at 88% accuracy, with a hybrid OCR fallback at 93% |
 
 ---
 
 ### 🛠️ Tech Stack
 
 **Languages**
-<img src="https://skillicons.dev/icons?i=py,java,cpp,cs,ts,js,swift,dart,matlab,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,java,cpp,cs,ts,js,html,css&theme=dark" />
 
 **Frameworks & ML**
-<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,flask,tailwind,pytorch,opencv,sklearn&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,fastapi,flask,nodejs,angular,tailwind,pytorch,sklearn&theme=dark" />
 
 **Cloud, DevOps & Tools**
-<img src="https://skillicons.dev/icons?i=aws,azure,terraform,docker,linux,git,githubactions,postman,postgres,firebase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,git,githubactions,postgres,redis&theme=dark" />
 
 <details>
 <summary><b>Full skill breakdown</b></summary>
 <br>
 
-**Languages:** Python, Java, C/C++, C#, TypeScript, JavaScript, SQL, Swift, Dart, MATLAB, HTML/CSS
-**Frameworks:** React, Node.js, FastAPI, Flask, SwiftUI, Tailwind CSS, Pydantic, Zod
-**Cloud & DevOps:** AWS (Bedrock, SageMaker, BDA, Textract, Lambda), Azure, Terraform, Docker, CI/CD Pipelines
-**Libraries & ML:** PyTorch, Hugging Face, OpenCV, Pandas, NumPy, Scikit-learn, OpenAI and Anthropic APIs, LLM Guardrails, RAG
-**Databases & Tools:** PostgreSQL, pgvector, Neo4j, Firebase, Git, pytest, Postman, Apigee, JupyterLab, ipywidgets
-**Concepts:** REST APIs, Multithreading, Structured Data Contracts, Agile, Data Structures and Algorithms
+**Languages:** Python, Java, C/C++, TypeScript, JavaScript, SQL, C#, HTML/CSS
+**Frameworks:** FastAPI, React, Flask, Node.js, Angular, Tailwind CSS, SQLAlchemy, Leaflet, Framer Motion
+**AWS:** Bedrock, SageMaker, Bedrock Data Automation, Textract, ECS, DynamoDB, EC2, Lambda
+**Libraries & ML:** PyTorch, HuggingFace, LLM Architectures, Pydantic, Pandas, NumPy, Scikit-learn, Zod
+**Databases & Tools:** PostgreSQL, Neo4j, pgvector, Firebase, Git, Pytest, Vitest, Postman, JupyterLab, IPyWidgets
+**Cloud & DevOps:** Docker, Kubernetes, Terraform, CI/CD (GitHub Actions, Jenkins, GitLab CI), Redis Streams, k6
 
 </details>
 
@@ -100,6 +100,7 @@ Native iOS fitness tracking app built with Swift and Xcode.
 ### 📜 Certifications
 
 <img src="https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS%20AI%20Practitioner-In%20Progress-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 <img src="https://img.shields.io/badge/Google%20AI%20Professional%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 
 ---
