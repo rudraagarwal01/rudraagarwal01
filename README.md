@@ -17,7 +17,7 @@
 
 ### 🔭 Currently
 
-- 🏦 **Returning SWE Intern at Fannie Mae** for Summer 2027 (return offer in hand, still exploring other roles)
+- 🏦 **SWE Intern at Fannie Mae** for Summer 2027 (Return Offer)
 - 🤖 **ML Engineer on the MITRE project** with UMD's App Dev Club
 - 🎨 **Adobe Campus Brand Ambassador** running Firefly workshops for 200+ students at UMD
 - ⚙️ **Automation & Infrastructure Technician** at UMD DIT
