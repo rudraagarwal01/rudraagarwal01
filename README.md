@@ -110,12 +110,8 @@ I work on LLM orchestration, RAG pipelines, and the backend systems underneath t
 
 ---
 
-### 📜 Certifications
-
-<img src="https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS%20AI%20Practitioner-In%20Progress-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Google%20AI%20Professional-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/Google%20AI%20Essentials-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+📜 Certifications
+<img src="https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/AWS%20AI%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/Google%20AI%20Professional-4285F4?style=for-the-badge&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/Google%20AI%20Essentials-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 
 ---
 
