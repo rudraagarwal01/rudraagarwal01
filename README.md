@@ -112,7 +112,7 @@ I work on LLM orchestration, RAG pipelines, and the backend systems underneath t
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rudraagarwal01&bg_color=transparent&color=255E63&line=255E63&point=0f2027&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rudraagarwal01&bg_color=0d1117&color=255E63&line=255E63&point=ffffff&area=true&area_color=255E63&hide_border=true&v=2" width="100%" alt="Activity Graph" />
 </p>
 
 <!-- requires the one-time Action setup below; renders after the first workflow run -->
