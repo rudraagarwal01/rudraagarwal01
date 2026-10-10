@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:255e63&height=260&section=header&text=Rudra%20Agarwal&fontSize=48&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Software%20Engineer%20%7C%20Machine%20Learning%20%40%20UMD&descAlignY=58&descSize=18&descColor=d7eef0" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=255E63&center=true&vCenter=true&width=650&lines=Building+AI+systems+that+ship+to+production;Software+Engineer+%40+Fannie+Mae;Adobe+Campus+Brand+Ambassador;ML+%40+University+of+Maryland;Founder+of+A.C.E.+Cricket+%40+UMD" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=255E63&center=true&vCenter=true&width=650&lines=Building+AI+systems+that+ship+to+production;Returning+SWE+Intern+%40+Fannie+Mae;Open+to+Summer+2027+SWE+%2F+ML+internships;ML+Engineer+on+the+MITRE+project;Adobe+Campus+Brand+Ambassador" alt="Typing SVG" />
 
 <a href="http://rudra-agarwal.com"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 <a href="mailto:rudra.agarwal06@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -17,17 +17,19 @@
 
 ### 🔭 Currently
 
+- 🏦 **Returning SWE Intern at Fannie Mae** for Summer 2027 (return offer in hand, still exploring other roles)
+- 🤖 **ML Engineer on the MITRE project** with UMD's App Dev Club
 - 🎨 **Adobe Campus Brand Ambassador** running Firefly workshops for 200+ students at UMD
 - ⚙️ **Automation & Infrastructure Technician** at UMD DIT
-- 🏏 Founder of **A.C.E. Cricket**, UMD's recreational program, 100+ participants over 4 semesters
+- 🏏 Founder of **A.C.E. Cricket**, UMD's recreational program, 100+ participants across 4 semesters
 - 🌱 Studying for the **AWS AI Practitioner (AIF-C01)** cert
-- 🎯 Open to **Summer 2027 SWE and ML internships**
+- 🎯 **Open to Summer 2027 SWE and ML internships**, happy to chat
 
 ---
 
 ### 💡 About
 
-CS @ University of Maryland, ML concentration, graduating **December 2027**. Minors in Business and in Information Risk Management, Ethics, and Privacy.
+CS at the University of Maryland (ML concentration), graduating **December 2027**. Minors in Business and in Information Risk Management, Ethics, and Privacy.
 
 I work on LLM orchestration, RAG pipelines, and the backend systems underneath them. Most of the real progress happens in unglamorous places: a race condition under load, a token budget that won't shrink, a parser that fails one time in a thousand.
 
@@ -37,7 +39,8 @@ I work on LLM orchestration, RAG pipelines, and the backend systems underneath t
 
 | Role | Org | When |
 |:--|:--|:--|
-| Software Engineering Intern | **Fannie Mae** | `May – Aug 2026` |
+| Software Engineering Intern (Return Offer) | **Fannie Mae** | `May – Aug 2026` |
+| Machine Learning Engineer | **App Dev Club (MITRE)** | `Sep 2026 – Present` |
 | Campus Brand Ambassador | **Adobe** | `Jul 2026 – Present` |
 | Automation & Infrastructure Technician | **University of Maryland** | `Sep 2025 – Present` |
 | Software Engineering Intern | **Mphasis** | `Jun – Aug 2025` |
@@ -47,15 +50,17 @@ I work on LLM orchestration, RAG pipelines, and the backend systems underneath t
 <summary><b>Details</b></summary>
 <br>
 
-**Fannie Mae** · Built an AI chatbot and guided-form portal (React/FastAPI on EC2) routing 5 products, cutting triage time 50%. Architected a RAG knowledge base on S3 with event-driven Lambda re-chunking, cutting per-request tokens 60%. Integrated Claude Haiku 4.5 via the Bedrock Converse API with rules-based failover that eliminated JSON parse faults. Designed SageMaker test harnesses that sped up inference prototyping 35% across 15+ models.
+**Fannie Mae** (Return Offer for Summer 2027). Built an AI chatbot and guided-form portal (React/FastAPI on EC2) routing 5 products, cutting triage time 50%. Architected a RAG knowledge base on S3 with event-driven Lambda re-chunking, cutting per-request tokens 60%. Integrated Claude Haiku 4.5 via the Bedrock Converse API with rules-based failover that eliminated JSON parse faults. Designed SageMaker test harnesses that sped up inference prototyping 35% across 15+ models.
 
-**Adobe** · Selected to run campus Firefly workshops, teaching generative AI tooling to 200+ UMD students.
+**App Dev Club (MITRE Project).** Building ML models to classify and extract structured data from client documents, deployed through a FastAPI backend.
 
-**University of Maryland** · Automated OS imaging with PowerShell and Bash, cutting provisioning time 40%. Hardened 200+ workstations by automating driver updates, resolving 50+ vulnerabilities monthly.
+**Adobe.** Selected to run campus Firefly workshops, teaching generative AI tooling to 200+ UMD students.
 
-**Mphasis** · Flask microservice compiling natural language into 500+ Neo4j Cypher queries. Async embedding pipelines processing 50K+ records with sub-second retrieval. Graph indexing and batch ingestion tuning that cut ingestion time 35%.
+**University of Maryland.** Automated OS imaging with PowerShell and Bash, cutting provisioning time 40%. Hardened 200+ workstations by automating driver updates, resolving 50+ vulnerabilities monthly.
 
-**Apollonian** · Real-time lip-sync avatar pipeline using HuggingFace models for synchronized video chat. Async NLP pipelines with dynamic caching across 16K-token contexts and 50 concurrent sessions, at 250ms reaction latency.
+**Mphasis.** Flask microservice compiling natural language into 500+ Neo4j Cypher queries. Async embedding pipelines processing 50K+ records with sub-second retrieval. Graph indexing and batch ingestion tuning that cut ingestion time 35%.
+
+**Apollonian.** Real-time lip-sync avatar pipeline using HuggingFace models for synchronized video chat. Async NLP pipelines with dynamic caching across 16K-token contexts and 50 concurrent sessions, at 250ms reaction latency.
 
 </details>
 
@@ -65,21 +70,24 @@ I work on LLM orchestration, RAG pipelines, and the backend systems underneath t
 
 | Project | Stack | What it does |
 |:--|:--|:--|
-| **[Urban Energy Insights](https://github.com/rudraagarwal01)** | Redis Streams, PostgreSQL, SQLAlchemy, Docker | Idempotent anomaly engine flagging spikes in sub-200ms, with nested-transaction ingestion that boosted write speeds 40% |
-| **[MealMatch](https://github.com/rudraagarwal01)** | React, FastAPI, PostgreSQL, JWT, Leaflet | Weighted algorithm scoring 1,000+ listings across 5 urgency signals, race-condition-free under load via row-level locks |
-| **[DocFlow](https://github.com/rudraagarwal01)** | FastAPI, React, Textract, Bedrock, GitHub Actions | Bedrock classifier extracting structured fields from 6 file types at 88% accuracy, with a hybrid OCR fallback at 93% |
+| **[Urban Energy Insights](https://github.com/rudraagarwal01)** <br/> `Apr – Jul 2026` | Redis Streams, PostgreSQL, SQLAlchemy, Docker | Idempotent anomaly engine flagging spikes in sub-200ms, with nested-transaction ingestion that boosted write speeds 40% |
+| **[MealMatch](https://github.com/rudraagarwal01)** <br/> `Apr – Jun 2026` | React, FastAPI, PostgreSQL, JWT, Leaflet | Weighted algorithm scoring 1,000+ listings across 5 urgency signals, race-condition-free under load via row-level locks |
+| **[DocFlow](https://github.com/rudraagarwal01)** <br/> `Feb – Jun 2026` | FastAPI, React, Textract, Bedrock, GitHub Actions | Bedrock classifier extracting structured fields from 6 file types at 88% accuracy, with a hybrid OCR fallback at 93% |
 
 ---
 
 ### 🛠️ Tech Stack
 
 **Languages**
+<br/>
 <img src="https://skillicons.dev/icons?i=py,java,cpp,cs,ts,js,html,css&theme=dark" />
 
 **Frameworks & ML**
+<br/>
 <img src="https://skillicons.dev/icons?i=react,fastapi,flask,nodejs,angular,tailwind,pytorch,sklearn&theme=dark" />
 
 **Cloud, DevOps & Tools**
+<br/>
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,git,githubactions,postgres,redis&theme=dark" />
 
 <details>
@@ -87,10 +95,15 @@ I work on LLM orchestration, RAG pipelines, and the backend systems underneath t
 <br>
 
 **Languages:** Python, Java, C/C++, TypeScript, JavaScript, SQL, C#, HTML/CSS
+<br/>
 **Frameworks:** FastAPI, React, Flask, Node.js, Angular, Tailwind CSS, SQLAlchemy, Leaflet, Framer Motion
+<br/>
 **AWS:** Bedrock, SageMaker, Bedrock Data Automation, Textract, ECS, DynamoDB, EC2, Lambda
+<br/>
 **Libraries & ML:** PyTorch, HuggingFace, LLM Architectures, Pydantic, Pandas, NumPy, Scikit-learn, Zod
+<br/>
 **Databases & Tools:** PostgreSQL, Neo4j, pgvector, Firebase, Git, Pytest, Vitest, Postman, JupyterLab, IPyWidgets
+<br/>
 **Cloud & DevOps:** Docker, Kubernetes, Terraform, CI/CD (GitHub Actions, Jenkins, GitLab CI), Redis Streams, k6
 
 </details>
@@ -101,7 +114,8 @@ I work on LLM orchestration, RAG pipelines, and the backend systems underneath t
 
 <img src="https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS%20AI%20Practitioner-In%20Progress-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Google%20AI%20Professional%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20AI%20Professional-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20AI%20Essentials-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 
 ---
 
@@ -111,8 +125,6 @@ I work on LLM orchestration, RAG pipelines, and the backend systems underneath t
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudraagarwal01&theme=transparent&hide_border=true&ring=255E63&fire=255E63&currStreakLabel=255E63" height="165" alt="GitHub Streak" />
 </p>
 
-
-<!-- requires the one-time Action setup below; renders after the first workflow run -->
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rudraagarwal01/rudraagarwal01/output/github-contribution-grid-snake-dark.svg" />
