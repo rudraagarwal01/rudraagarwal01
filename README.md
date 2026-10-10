@@ -111,9 +111,6 @@ I work on LLM orchestration, RAG pipelines, and the backend systems underneath t
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudraagarwal01&theme=transparent&hide_border=true&ring=255E63&fire=255E63&currStreakLabel=255E63" height="165" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rudraagarwal01&bg_color=0d1117&color=255E63&line=255E63&point=ffffff&area=true&area_color=255E63&hide_border=true&v=2" width="100%" alt="Activity Graph" />
-</p>
 
 <!-- requires the one-time Action setup below; renders after the first workflow run -->
 <p align="center">
